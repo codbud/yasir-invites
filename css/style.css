@@ -2361,6 +2361,13 @@ font-size:small;
 
 .head-para{
   font-size: 3rem;
-  /* font-weight: bold; */
   letter-spacing: 2.5px;
 }
+
+#head-para-top{
+margin-top:50px;
+}
+
+/* .content{
+  background-image: url('images/overlay.JPG');
+} */
